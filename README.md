@@ -1,2 +1,6 @@
 # Comparative-Study-of-Sentiment-Analysis-on-Text-data-using-various-Deep-Learning-Models
-A complete project on sentiment analysis using LSTM, CNN, LSTM-CNN hybrid and BERT models on Amazon Polarity Reviews and IMDB dataset 
+This project aims to address the increasing need for automated sentiment analysis due to the rise of digital textual data. The primary goal of this study is to analyze sentiment analysis techniques, with a specific focus on assessing the emotional tone in sources such as Amazon Product Reviews and IMDb movie reviews. We systematically evaluate the effectiveness of various Natural Language Processing (NLP) and Deep Learning models, including LSTM, CNN, CNN-LSTM, and BERT, across diverse datasets. Additionally, we investigate how the choice of dataset influences model accuracy. Our methodology involves data preprocessing, feature extraction, model selection, and performance assessment through cross-validation. We provide a comprehensive evaluation of sentiment analysis models, considering metrics such as accuracy. This study advances sentiment analysis techniques, assists in selecting models for specific applications and datasets, and serves as a valuable resource for future research, deepening our understanding of NLP and deep learning techniques in sentiment analysis.
+# DATASET LINKS: 
+https://s3.amazonaws.com/fast-ai-nlp/amazon_review_polarity_csv.tgz
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
